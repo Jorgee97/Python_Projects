@@ -26,4 +26,4 @@ This project is a little test of the Click library for create command line tools
 This project is not complete yet, but It will have integration with firebase for notes saving using the command line for quick access. 
 
 ## Aditional Notes
-If some of this projects help you on any way, and you would like to thank me you can, either send me an email on this account: androidciudadano@gmail.com, or you can buy me a coffe at this link: http://ko-fi.com/jorgegomez, or you can do both, I like to know new people and If I can help with something don't hesitate to send me an email.
+If some of this projects help you on any way, and you would like to thank me you can, either send me an email on this account: androidciudadano@gmail.com, or you can buy me a coffee at this link: http://ko-fi.com/jorgegomez, or you can do both, I like to know new people and If I can help with something don't hesitate to send me an email.
